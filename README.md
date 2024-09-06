@@ -1,7 +1,7 @@
 
 ### **Sobre a aplicação**
 
-### Seu Site Sobre filmes, séries e animes
+### Seu Site Sobre filmes, séries e animes - foi desenvolvido durante a imersão Dev da alura
 
 Esta aplicação web permite aos usuários pesquisarem por filmes, séries e animes em uma base de dados local. Ao digitar um título ou gênero no campo de pesquisa, a aplicação retorna uma lista de resultados relevantes, exibindo informações como título, gênero, sinopse, onde assistir e outras informações relevantes.
 
